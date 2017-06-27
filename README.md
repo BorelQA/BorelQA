@@ -1,2 +1,2 @@
 # BorelQA
- <!-- Teste -->
+ <!-- Teste. -->
